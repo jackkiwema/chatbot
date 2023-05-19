@@ -211,3 +211,22 @@ Branch Location Chips
   ]
 }
 ```
+
+###### Ngong Road
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Nakuru",
+        "link": "https://www.google.com/maps/search/Bank+Of+Africa+nakuru/@-0.2852135,36.0634953,16z/data=!3m1!4b1"
+      }
+    ]
+  ]
+}
+```
