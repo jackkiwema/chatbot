@@ -20,3 +20,6 @@ https://www.google.com/maps/search/bank+of+africa+uhuru+highway/@-1.2804747,36.7
 https://www.google.com/maps/search/bank+of+africa+upperhill/@-1.2803887,36.78743,14z/data=!3m1!4b1
 https://www.google.com/maps/search/bank+of+africa+westlands/@-1.2803027,36.78743,14z/data=!3m1!4b1
 https://www.google.com/maps/dir/-1.260382,36.791317/Bank+Of+Africa+Bungoma+Branch,+New+Nyanza+Hardware,+Moi+Avenue,+Bungoma/@-0.3136543,34.3192811,8z/data=!3m1!4b1!4m13!1m2!2m1!1sbungoma+branch+boa!4m9!1m1!4e1!1m5!1m1!1s0x1781d68f7dfcfd19:0xbc7117e0f6e9e3e8!2m2!1d34.55968!2d0.5701393!3e0
+https://boakenya.com/personal-banking/personal-accounts/
+https://boakenya.com/business-banking/business-accounts/
+https://forms.office.com/r/5ekWGiEyze
