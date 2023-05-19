@@ -223,8 +223,217 @@ Branch Location Chips
           "type": "link",
           "color": "#FF9800"
         },
-        "text": "Bank of Africa Nakuru",
-        "link": "https://www.google.com/maps/search/Bank+Of+Africa+nakuru/@-0.2852135,36.0634953,16z/data=!3m1!4b1"
+        "text": "Marsabit Plaza",
+        "link": "https://www.google.com/maps/place/Marsabit+Plaza/@-1.3004207,36.7539609,15z/data=!3m1!4b1!4m6!3m5!1s0x182f1a71ef8e4a49:0x65d8a300c13d99fe!8m2!3d-1.3004422!4d36.772415!16s%2Fg%2F11clybwx6h"
+      }
+    ]
+  ]
+}
+```
+
+###### Nyali
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Nyali Branch",
+        "link": "https://www.google.com/maps/place/Bank+Of+Africa+Nyali+Branch/@-4.048389,39.69321,17z/data=!3m1!4b1!4m6!3m5!1s0x1840125881b2afa3:0x86a4245a44e7e20c!8m2!3d-4.048389!4d39.69321!16s%2Fg%2F1ptx26stt?authuser=0&hl=en"
+      }
+    ]
+  ]
+}
+```
+
+###### Ongata Rongai
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Ongata Rongai Branch",
+        "link": "https://www.google.com/maps/place/Bank+Of+Africa+Ongata+Rongai+Branch/@-1.3942835,36.7454629,15z/data=!3m2!4b1!5s0x182f05e96c268379:0x930b745e3a128b13!4m6!3m5!1s0x182f054b478c099d:0xfe65aa8fb957b7b8!8m2!3d-1.394305!4d36.763917!16s%2Fg%2F11_r3kqmd"
+      }
+    ]
+  ]
+}
+```
+
+###### River Road
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa River Road branch",
+        "link": "https://www.google.com/maps/place/Bank+of+Africa+river+road+branch/@-1.2813995,36.8226988,17z/data=!3m1!4b1!4m6!3m5!1s0x182f112a80cc3ab5:0x5daaa5c3249bfe9f!8m2!3d-1.2814049!4d36.8252737!16s%2Fg%2F1tht407k"
+      }
+    ]
+  ]
+}
+```
+
+###### Ruaraka
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Ruaraka",
+        "link": "https://www.google.com/maps/search/Bank+of+Africa+ruaraka/@-1.2813727,36.8149739,15z/data=!3m1!4b1"
+      }
+    ]
+  ]
+}
+```
+
+###### Sameer Retail
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa",
+        "link": "https://www.google.com/maps/place/Bank+of+Africa/@-1.3297748,36.8636157,17z/data=!3m1!4b1!4m6!3m5!1s0x182f11f6702ecbc5:0x72cf464ac3d10cf0!8m2!3d-1.3297802!4d36.8661906!16s%2Fg%2F11g6x8_tjv"
+      }
+    ]
+  ]
+}
+```
+
+###### Thika
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Thika Branch",
+        "link": "https://www.google.com/maps/place/Bank+Of+Africa+Thika+Branch/@-1.0391133,37.0598373,15z/data=!3m1!4b1!4m6!3m5!1s0x182f4e8947e15ccf:0xd2c16da70c34c8e!8m2!3d-1.0391348!4d37.0782914!16s%2Fg%2F1tcyz_02"
+      }
+    ]
+  ]
+}
+```
+
+###### Uhuru Highway
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Uhuru Highway",
+        "link": "https://www.google.com/maps/search/bank+of+africa+uhuru+highway/@-1.2804747,36.78743,14z/data=!3m1!4b1"
+      }
+    ]
+  ]
+}
+```
+
+###### Upperhill
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Upperhill",
+        "link": "https://www.google.com/maps/search/bank+of+africa+upperhill/@-1.2803887,36.78743,14z/data=!3m1!4b1"
+      }
+    ]
+  ]
+}
+```
+
+###### Westlands
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Westlands",
+        "link": "https://www.google.com/maps/search/bank+of+africa+westlands/@-1.2803027,36.78743,14z/data=!3m1!4b1"
+      }
+    ]
+  ]
+}
+```
+
+###### Westlands
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Bank of Africa Westlands",
+        "link": "https://www.google.com/maps/search/bank+of+africa+westlands/@-1.2803027,36.78743,14z/data=!3m1!4b1"
+      }
+    ]
+  ]
+}
+```
+
+###### Bungoma
+```
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "icon": {
+          "type": "link",
+          "color": "#FF9800"
+        },
+        "text": "Your location to Bank of Africa Bungoma Branch",
+        "link": "https://www.google.com/maps/dir/-1.260382,36.791317/Bank+Of+Africa+Bungoma+Branch,+New+Nyanza+Hardware,+Moi+Avenue,+Bungoma/@-0.3136543,34.3192811,8z/data=!3m1!4b1!4m13!1m2!2m1!1sbungoma+branch+boa!4m9!1m1!4e1!1m5!1m1!1s0x1781d68f7dfcfd19:0xbc7117e0f6e9e3e8!2m2!1d34.55968!2d0.5701393!3e0"
       }
     ]
   ]
