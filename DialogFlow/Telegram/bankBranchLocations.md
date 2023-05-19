@@ -22,3 +22,22 @@ Branch Location Chips
   }
 }
 ```
+
+###### Eldoret
+```
+{
+  "telegram": {
+    "text": "Bank of Africa Eldoret Branch",
+    "reply_markup": {
+      "inline_keyboard": [
+        [
+          {
+            "text": "View Map",
+            "url": "https://www.google.com/maps/place/Bank+Of+Africa+Eldoret+Branch/@0.5164987,35.2570511,14z/data=!4m10!1m2!2m1!1seldoret+bank+of+africa!3m6!1s0x178101a3c8aad90d:0xccc650b876ccfcda!8m2!3d0.514633!4d35.2869651!15sChZlbGRvcmV0IGJhbmsgb2YgYWZyaWNhkgEEYmFua-ABAA!16s%2Fg%2F1vfpt3d8"
+          }
+        ]
+      ]
+    }
+  }
+}
+```
