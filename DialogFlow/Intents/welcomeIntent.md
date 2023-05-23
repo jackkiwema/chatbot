@@ -37,18 +37,6 @@ Greetings :-) Ask me about any of the items below. If at any point you want to c
           },
           {
             "text": "7. Current Campaigns"
-          },
-          {
-            "text": "8. Can I see your menu?"
-          },
-          {
-            "text": "9. Can I book a table?"
-          },
-          {
-            "text": "10. Do you deliver?"
-          }, 
-          {
-            "text": "Click on name or number"
           }
         ],
         "type": "chips"

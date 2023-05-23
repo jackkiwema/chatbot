@@ -36,4 +36,15 @@ Chat with an Agent chips
 ```
 
 
+###### Talk to human - Next followup
+```
+{
+    "platform" : "kommunicate",
+    "message" : "Thank you for contacting us, our live agents will attend to you shortly",
+    "metadata": {
+        "KM_ASSIGN_TO": ""
+    }
+}
+```
+
 
